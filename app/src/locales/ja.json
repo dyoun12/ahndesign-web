@@ -1,0 +1,205 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "technology": "技術紹介",
+    "machines": "保有機械",
+    "company": "会社情報",
+    "contact": "お問い合わせ"
+  },
+  "home": {
+    "hero": {
+      "title": "AHN DESIGNS JAPAN",
+      "subtitle": "精密試作と製造のパートナー",
+      "cta1": "お問い合わせ",
+      "cta2": "技術を見る"
+    }
+  },
+  "common": {
+    "idealFor": "に最適",
+    "materials": "材料"
+  },
+  "greeting": {
+    "ja": {
+      "title": "ご挨拶",
+      "corporatePhilosophy": {
+        "title": "企業理念",
+        "content": [
+          "AHN DESIGNS JAPANの企業理念は「常にお客様の立場で考える」ことです。お客様の満足だけでなく、感動する世界とは何かを絶えず考えて設計しています。",
+          "スタッフ一同、製作の障害を乗り越え期待にお応えできるよう常に努力しており、納期短縮・安定した品質提供に努めています。"
+        ]
+      },
+      "globalizationEfforts": {
+        "title": "グローバル化への取り組み",
+        "content": [
+          "私たちは、つながりの重要性とグローバル化の必然性を認識しています。",
+          "特にマーケティングと経済の分野において、依存的なパートナーシップ・常に価値観と理解・より良い方向に改善を望むパートナーにコミットし、AHN DESINGNS JAPANがお客様のニーズを満たすよう努力致します。"
+        ]
+      },
+      "team": {
+        "title": "チーム",
+        "content": [
+          "Ahn Designs Japanは、協力会社を含む40人以上のスタッフで構成されています。",
+          "スタッフはそれぞれのフィールドで最高の知識と経験をを持っており、お客様が希望するプロトタイプの開発中に抱えている問題、または質問を解決・提案致します。",
+          "CAD/CAMソフトウェアの使用により、精密度・精密度の基準達成が可能です。"
+        ],
+        "table": [
+          ["切削（Mock-Up）", "簡易金型(Quick Derivery Mold)", "注型(Vacuum Casting)"],
+          ["生産の検証大量生産するための開発品", "携帯電話ケースの製造または通信デバイス", "少量生産用"],
+          ["新製品についての特許出願用", "ナビゲーション·デバイス (GPS) およびMP3プレーヤー", "家電製品・医療機器モーター部品・オフィス用品・および産業用機器"],
+          ["投資展示会用", "小~中サイズ生活用品", "モックアップ製品の生産"],
+          ["家電製品の生産・工業用機器・玩具", "その他のエレクトロニクスデバイスのケース", ""],
+          ["レジャー用品・スポーツ用品及び事業推進用品", "その他少量の製品（10,000~20,000)", ""],
+          ["展示会と実生活設計作業の評価", "", ""]
+        ]
+      }
+    }
+  },
+  "technology": {
+    "ja": {
+      "title": "技術紹介",
+      "mockup": {
+        "title": "切削（Mock-up）",
+        "description": "切削（モックアップ・mock-up）とは、 新製品を開発する場合の金型で量産する前段階の試作品を製作する場合に製作する方法です。デザインや寸法などをチェックするために使用し、必要な内容をフィードバックすることで、より正確な製品の完成を目的とします。",
+        "idealFor": [
+          "開発品量産用金型の製作検討",
+          "新しい技術と製品に関するパートナー申請用製品",
+          "投資誘致展示会用",
+          "自動車部品・医療機器・家電・産業機器・OA製品等の製作",
+          "レジャー用品・スポーツ用品・事業促進用品",
+          "金属・樹脂の量産加工（一般の材料に限る）"
+        ],
+        "materials": "ABS・PC・PC-ABS・PP・POM・PMMA・PBT-GF・PC-GF・紙ベーク・MCナイロン　その他 A5052・A6061・SUS303・SUS304　その他（特殊材料はお問い合わせ願います。）"
+      },
+      "qdm": {
+        "title": "簡易金型(QDM）",
+        "description": "簡易金型(QDM）は Quick Delivery Moid の略になり、CDA図面に基づいてコアとキャビティだけを製造し、それを標準のモールドベースに取り付けることによって、新製品開発のための試作品または試作品の生産に迅速に対応できる製作法です。少ロット生産に向いており、量産金型に比べコストが安い・製作期間が短いのが特徴です。",
+        "idealFor": [
+          "自動車部品（カーオーディオなど）",
+          "携帯電話·通信機器のケース",
+          "MP3プレーヤーにおけるナビゲーション装置など",
+          "中小規模装置",
+          "少ロット生産用"
+        ],
+        "materials": "AL、NAK、S45C その他",
+        "tableTitle": "QDM、試作金型、量産金型の特徴と強み",
+        "table": [
+          ["分類", "QDM", "試作金型", "量産金型"],
+          ["生産量", "1EA～制限数まで　*", "1EA～制限数まで　*", "量産"],
+          ["製作期間", "5～7日", "10～15日", "30～35日"],
+          ["金型構造", "単純", "複雑", "複雑"],
+          ["Mold Base", "標準Mold Base 使用", "製品の大きさにより変わる", "製品の大きさにより変わる"],
+          ["Core材質", "アルミニウム", "S45C系", "KP4M以上"],
+          ["加工性", "加工しやすい", "加工しやすい", "加工しにくい"],
+          ["金型耐久性", "3000 SHOT 以下", "10,000~20,000 SHOT", "10,000 SHOT 以上"],
+          ["溶接", "特殊溶接", "一般溶接", "一般溶接"],
+          ["射出成型", "手動作業/半自動", "半自動", "自動"],
+          ["機構構造検討", "可能", "可能", "可能"]
+        ]
+      },
+      "vacuumCasting": {
+        "title": "注型",
+        "description": "マスターモデルをもとにシリコンゴムで型を製作し、真空状態の中で硬化する注型用樹脂を用いて複製品を製作する方法です。１個のシリコン型から約20個程度製作できます。",
+        "idealFor": [
+          "少ロット製品",
+          "家電・医療機器・モーター部品・事務用品その他の機器·装置",
+          "試作品用"
+        ],
+        "materials": "ABS相当・PP相当・ゴム相当・シリコン相当"
+      }
+    }
+  },
+  "machines": {
+    "ja": {
+      "title": "保有機械",
+      "mockup": {
+        "title": "Mock-up (protoptype)",
+        "table": [
+          ["Purpose", "Model & Size (x-y-z)", "Quanlity"],
+          ["CNC Milling M/C", "DNM500 (Doosan) 20,001 / 500 x 1,050 x 300", "1"],
+          ["CNC Milling M/C", "DNM650 (Doosan) 20,001 / 650 x 1,250 x 300", "1"],
+          ["CNC Milling M/C", "DNM650P III (Doosan) 20,001 / 650 x 1,300 x 300", "1"],
+          ["CNC Milling M/C", "DNM650P II (Doosan) 20,001 / 650 x 1,300 x 300", "1"],
+          ["CNC Milling M/C", "SMEC MCV500 (Samsung) 20,001 / 500 x 1,050 x 300", "1"],
+          ["CNC Milling M/C", "DAEYANG 15,000 / 1,000 x 1,200 x 150", "1"],
+          ["CNC Milling M/C", "DAEYANG 15,000 / 1,000 x 1,200 x 150", "1"],
+          ["CNC Milling M/C", "DAEYANG 15,000 / 800 x 1,200 x 150", "1"]
+        ]
+      },
+      "qdm": {
+        "title": "QDM (Quick Derivery Mold)",
+        "table": [
+          ["Purpose", "Model", "image", "Quanlity"],
+          ["CAD", "CADEUS", "-", "5"],
+          ["CAM", "CAM-TOOL", "-", "5"],
+          ["CNC Milling M/C", "Swiss Mikron VCP-710 (42,000rpm)", "-", "1"],
+          ["CNC Milling M/C", "Swiss Mikron VCP-800w (42,000rpm)", "-", "1"],
+          ["CNC Milling M/C", "Swiss Mikron HSM-400w (42,000rpm)", "-", "1"],
+          ["CNC Milling M/C", "Swiss Mikron HSM-800w (42,000rpm)", "-", "3"],
+          ["CNC Milling M/C", "MAKINO V22(40,000RPM)", "-", "2"],
+          ["CNC Milling M/C", "MAKINO VE33(30,000RPM)", "-", "1"],
+          ["CNC Milling M/C", "Hwacheon SIRIUS-UL(12,000RPM)", "-", "3"],
+          ["EDM", "Daehen", "-", "1"],
+          ["EDM", "MAMKINO CNC", "-", "3"],
+          ["Milling M/C", "Hwacheon　HMT‐1100N", "-", "6"],
+          ["Lathe", "Hwacheon", "-", "2"],
+          ["Grinding M/C", "Jinyoung JFG-520M", "-", "2"],
+          ["Injection M/C", "Dongshin Hydraulicss 150ton 100ton", "-", "2"],
+          ["Injection M/C", "Dongshin Hydraulicss 120ton", "-", "1"],
+          ["Injection M/C", "Dongshin Hydraulicss 150ton", "-", "2"],
+          ["Injection M/C", "Dongshin Hydraulicss 170ton", "-", "3"],
+          ["Injection M/C", "Dongshin Hydraulicss 300ton", "-", "3"],
+          ["Injection M/C", "Dongshin Hydraulicss 450ton", "-", "1"],
+          ["Injection M/C", "WOOJIN 200ton", "-", "1"]
+        ],
+        "note": "*リストは協力会社も含んでいます。"
+      }
+    }
+  },
+  "company": {
+    "ja": {
+      "title": "会社情報",
+      "overview": {
+        "title": "会社概要",
+        "companyName": "AHN DESIGNS JAPAN 株式会社",
+        "headOffice": {
+          "title": "本社（東京OFFICE)",
+          "address": "〒132-0035 　東京都江戸川区平井3丁目28-1 　東和プラザ平井102",
+          "tel": "03-5656-4376",
+          "fax": "03-6320-4864"
+        },
+        "koreaOffice": {
+          "title": "韓国OFFICE",
+          "address": "〒14697 　大韓民国京畿道富川市凡安洞​凡安路48　201号",
+          "tel": "+82-70-8888-3996    +82-70-8888-3997",
+          "fax": "+82-32-351-3998"
+        },
+        "koreanFactory": "大韓民国京畿道坡州市ソラジ路104-41",
+        "foundation": "2016-04-01",
+        "representative": "安 英 愛",
+        "capital": "500万円",
+        "businessContent": [
+          "試作品製作",
+          "切削・注型・簡易金型・一部材料による金属量産品の製造"
+        ]
+      },
+      "history": {
+        "title": "沿革",
+        "table": [
+          ["2010年", "2012年", "2016年", "2022年"],
+          ["韓国にてアンデザイン創業", "京畿道富川市に工場開設マシニングセンター・CIMATRON/MASTERCAM導入", "日本東京にてAHN DESIGNS JAPAN 株式会社設立", "韓国工場を京畿道坡州市に移転、及び組織変更"]
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "name": "お名前",
+    "company": "会社名",
+    "address": "住所",
+    "email": "メールアドレス",
+    "message": "お問い合わせ内容",
+    "submit": "送信",
+    "success": "お問い合わせありがとうございます。メッセージが送信されました。",
+    "error": "メッセージの送信中にエラーが発生しました。もう一度お試しください。"
+  }
+}

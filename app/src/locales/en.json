@@ -1,0 +1,207 @@
+{
+  "navigation": {
+    "home": "Home",
+    "technology": "Technology",
+    "machines": "Machines",
+    "company": "Company",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "AHN DESIGNS JAPAN",
+      "subtitle": "Your Partner in Precision Prototyping and Manufacturing",
+      "cta1": "Contact Us",
+      "cta2": "Learn More"
+    }
+  },
+  "common": {
+    "idealFor": "is ideal for",
+    "materials": "Materials"
+  },
+  "greeting": {
+    "en": {
+      "title": "Greeting",
+      "corporatePhilosophy": {
+        "title": "Corporate Philosophy",
+        "content": [
+          "AHN DESIGNS JAPAN corporate philosophy is \"Always think from customers’ perspective.\" In the sense that we in AHN DESIGNS JAPAN constantly ponder upon what would make our customers not only content, but impressed and intrigued.",
+          "Our employees understand the amount of extra effort that is required in order to acheieve our company's promise to each of our customers, nonetheless, they strive to surmount each obstacle to keep the promises and meet the epectations.",
+          "Here in AHN DESIGNS JAPAN we make every effort to provide the highest quality and service by understanding your needs and esires and putting them first before anything else. Whether you require a faster derivery time, or a qotation that matches your economic status, we will work with you to ensure you a smooth process. We will guarntee you these factors, as our positive and optimisitic views and values advocated by all the employess are what made today's AHN DESIGNS JAPAN."
+        ]
+      },
+      "globalizationEfforts": {
+        "title": "Striving for Globalization",
+        "content": [
+          "Currently, we are working with companies all over the globe from neghboring countries such as Japan to countreis across the world such as Canada, Iran, and China.",
+          "We recognize the importance of connection and the inevitable idea of globalization that graps our world especially in the domains of marketing and economics.",
+          "For that reason,we strive to make a truatworthy, dependent partnership with every company that is interested in wotking with us. Always valuing and comitting to our partners hoping to improve our relationships one step at a time, AHN DESIGNS JAPAN will be there to meet your needs."
+        ]
+      },
+      "team": {
+        "title": "Team",
+        "content": [
+          "AHN DESIGNS JAPAN offers you not only the state-of-the-art CNC machiens, but the most qualified team consisting of over 40 staff members including our partnering firms.",
+          "Each with vast experience and expertise in their field, they will enable you to consult with whichever issues or questions you have while developing your desired prototype.",
+          "We value each of our employee and the asset they rovide in their field of work. Nevertheless, we pride ourselves the most in our engineering staff members. Our three leading engineers each have over 30years of experience using CAD(Computer Aided Design) / CAM(Computer Aided Manufacturing) software and CNC machinery. This allows precision and the standard of qulaity that can match and surmount our competitors."
+        ],
+        "table": [
+          ["Mock-Up", "QDM(Quick Delivery Molding)", "Vacuum Casting"],
+          ["Examining the producting of a mold for mass production of a developed product", "Manufacturing Moblie phone cases or communication devices", "When producing a small number of poducts"],
+          ["Applying for a patent for your innovation or product", "Manufacturing navigation devices(GPS) and MP3 players", "When producting home appliances, medical euqipment, moter parts, office goods, and industrial equipment"],
+          ["Exhibition for investment attraction", "Small to medium size consumer good products", "Another unique way of producing mockup products"],
+          ["Production of home appliances, industrial devices, and toys", "Cases for other elctronic devices", ""],
+          ["Production of leisure goods, sport goods, and/or business promotion goods", "Other goods in small quantities (10,000~20,000)", ""],
+          ["Exhibition and real life evalation of your designed work", "", ""]
+        ]
+      }
+    }
+  },
+  "technology": {
+    "en": {
+      "title": "Technology Introduction",
+      "mockup": {
+        "title": "Mock-up",
+        "description": "Mock-up is a model that is manufacured in the same way as the original design to help develop a new product. It is used to check whether the design and prodact to be marketed is correct and well-made. This allows for the necessary feedback to help perfect a prodact with precision even further.",
+        "idealFor": [
+          "Examining the producktion of a mold for mass production of a developed product",
+          "Applying for a partent on a new technique and product",
+          "Exhibition for investment attraction",
+          "Production of home appliances, industrial devices, toys and so forth",
+          "Production of leisure goods, sports goods, business promotion goods",
+          "Exhibition of a designed work."
+        ],
+        "materials": "ABS, PC, PC-ABS, PP, POM, PMMA, PBT-GF, PC-GF, Paper Bakelite, MC Nylon, etc. A5052, A6061, SUS303, SUS304, etc. (Please inquire for special materials.)"
+      },
+      "qdm": {
+        "title": "QDM(Quick Delivery Mold)",
+        "description": "QDM Stands for Quick Delivery Mold and is a system for quick delivery of a trial mold or trial product for new product development by manufacturing the core and cavity alone based on the CDA drawing and then mounting it on a standard mold base.",
+        "idealFor": [
+          "Kind of cases for mobile phones and communications devices",
+          "Kind of cases of navigation devices ahn MP3 players",
+          "Small and medium-size devices",
+          "Kind of cases for other devices",
+          "Goods of various kinds in small quantities."
+        ],
+        "materials": "AL, NAK, S45C etc",
+        "tableTitle": "Features and Strengths of QDM, Trial Mold and Mass Production Molds",
+        "table": [
+          ["Classification", "QDM", "Trial Mold", "Mass production"],
+          ["Quantity of production", "1(1 up to limited numbers only)*", "1(1 up to limited numbers only)*", "Mass production"],
+          ["Period of production", "5 to 7days", "10 to 15days", "30 to 35days"],
+          ["Structure", "Simple", "Complex", "Complex"],
+          ["Mold base", "Using standard M/B", "Different size according to product", "Different size according to product"],
+          ["Matter of core", "Aluminum/Dural Aluminum", "S45C", "KP4M"],
+          ["Degree of processing", "Very good", "Good", "Not good"],
+          ["Endurance", "10,000 SHOT or less", "10,000~20,000 SHOT", "10,000 SHOT or more"],
+          ["Correction(Welding)", "Special welding", "Ordinary Welding", "Ordinary Welding"],
+          ["Injection mold", "Manual/Semi-automatic", "Semi-automatic", "Automatic"],
+          ["Structure Inspection", "Possible", "Possible", "Possible"]
+        ]
+      },
+      "vacuumCasting": {
+        "title": "Vacuum Casting",
+        "description": "It is an amazing using silicon or epoxy to produce a multiture of products by producing one master mock-up when only a small number of products are necessary.",
+        "idealFor": [
+          "When you want to produce only a small number of products.",
+          "When you want to produce home appliances, medical equipment, motor parts, office goods, or other kinds of equipment and devices",
+          "When you want to produce mock-up products."
+        ],
+        "materials": "ABS equivalent, PP equivalent, Rubber equivalent, Silicone equivalent"
+      }
+    }
+  },
+  "machines": {
+    "en": {
+      "title": "Owned Machines",
+      "mockup": {
+        "title": "Mock-up (prototype)",
+        "table": [
+          ["Purpose", "Model & Size (x-y-z)", "Quantity"],
+          ["CNC Milling M/C", "DNM500 (Doosan) 20,001 / 500 x 1,050 x 300", "1"],
+          ["CNC Milling M/C", "DNM650 (Doosan) 20,001 / 650 x 1,250 x 300", "1"],
+          ["CNC Milling M/C", "DNM650P III (Doosan) 20,001 / 650 x 1,300 x 300", "1"],
+          ["CNC Milling M/C", "DNM650P II (Doosan) 20,001 / 650 x 1,300 x 300", "1"],
+          ["CNC Milling M/C", "SMEC MCV500 (Samsung) 20,001 / 500 x 1,050 x 300", "1"],
+          ["CNC Milling M/C", "DAEYANG 15,000 / 1,000 x 1,200 x 150", "1"],
+          ["CNC Milling M/C", "DAEYANG 15,000 / 1,000 x 1,200 x 150", "1"],
+          ["CNC Milling M/C", "DAEYANG 15,000 / 800 x 1,200 x 150", "1"]
+        ]
+      },
+      "qdm": {
+        "title": "QDM (Quick Delivery Mold)",
+        "table": [
+          ["Purpose", "Model", "image", "Quantity"],
+          ["CAD", "CADEUS", "-", "5"],
+          ["CAM", "CAM-TOOL", "-", "5"],
+          ["CNC Milling M/C", "Swiss Mikron VCP-710 (42,000rpm)", "-", "1"],
+          ["CNC Milling M/C", "Swiss Mikron VCP-800w (42,000rpm)", "-", "1"],
+          ["CNC Milling M/C", "Swiss Mikron HSM-400w (42,000rpm)", "-", "1"],
+          ["CNC Milling M/C", "Swiss Mikron HSM-800w (42,000rpm)", "-", "3"],
+          ["CNC Milling M/C", "MAKINO V22(40,000RPM)", "-", "2"],
+          ["CNC Milling M/C", "MAKINO VE33(30,000RPM)", "-", "1"],
+          ["CNC Milling M/C", "Hwacheon SIRIUS-UL(12,000RPM)", "-", "3"],
+          ["EDM", "Daehen", "-", "1"],
+          ["EDM", "MAMKINO CNC", "-", "3"],
+          ["Milling M/C", "Hwacheon　HMT‐1100N", "-", "6"],
+          ["Lathe", "Hwacheon", "-", "2"],
+          ["Grinding M/C", "Jinyoung JFG-520M", "-", "2"],
+          ["Injection M/C", "Dongshin Hydraulicss 150ton 100ton", "-", "2"],
+          ["Injection M/C", "Dongshin Hydraulicss 120ton", "-", "1"],
+          ["Injection M/C", "Dongshin Hydraulicss 150ton", "-", "2"],
+          ["Injection M/C", "Dongshin Hydraulicss 170ton", "-", "3"],
+          ["Injection M/C", "Dongshin Hydraulicss 300ton", "-", "3"],
+          ["Injection M/C", "Dongshin Hydraulicss 450ton", "-", "1"],
+          ["Injection M/C", "WOOJIN 200ton", "-", "1"]
+        ],
+        "note": "*The list also includes our partner companies."
+      }
+    }
+  },
+  "company": {
+    "en": {
+      "title": "Company Information",
+      "overview": {
+        "title": "Company Overview",
+        "companyName": "AHN DESIGNS JAPAN Co.,Ltd",
+        "headOffice": {
+          "title": "Head office (Tokyo Office)",
+          "address": "TOUWA-BUILDING 102, 3-28-1 Hirai, Edogawa-ku, Tokyo 132-0035, Japan",
+          "tel": "03-5656-4376",
+          "fax": "03-6320-4864"
+        },
+        "koreaOffice": {
+          "title": "Korea Office",
+          "address": "48. Beoman-ro, Bucheon-si, Gyeonggi-do 14697, South Korea",
+          "tel": "+82-70-8888-3996    +82-70-8888-3997",
+          "fax": "+82-32-351-3998"
+        },
+        "koreanFactory": "104-41 Soraziro Paju-si, Kyunggi-do South Korea",
+        "foundation": "April, 2016",
+        "representative": "An Young Ae",
+        "capital": "JPY 5,000,000",
+        "businessContent": [
+          "Prototype production",
+          "Cutting, casting, simple molds, and manufacturing of metal mass-produced products using some materials"
+        ]
+      },
+      "history": {
+        "title": "Company History",
+        "table": [
+          ["2010", "2012", "2016", "2022"],
+          ["AHN DESIGNS in Korea", "Factory opened in Bucheon, Gyeonggi-do Introduction of Machining Center CIMATRON/MASTERCAM", "Established AHN DESIGNS JAPAN Co., Ltd. in Tokyo, Japan", "Relocation of Korean plant to Paju City, Gyeonggi Province and organizational conversion"]
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "company": "Company",
+    "address": "Address",
+    "email": "Email Address",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Thank you for your inquiry. Your message has been sent.",
+    "error": "An error occurred while sending your message. Please try again."
+  }
+}
